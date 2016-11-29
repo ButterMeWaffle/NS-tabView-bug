@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "K:\\apps\\test\\my-app-name\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "K:\\apps\\test\\my-app-name\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "K:\\apps\\test\\my-app-name\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "K:\\apps\\test\\my-app-name\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "K:\\apps\\test\\my-app-name\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "K:\\apps\\test\\my-app-name\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    }
+]
